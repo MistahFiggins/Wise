@@ -75,3 +75,5 @@ Wise has 11 operations.
    `]` jumps to the corresponding `[` if the top of the stack is not zero
    
 At the end of the program the entire stack is output as decimal
+
+Be sure to also check out [the wiki](https://github.com/Wheatwizard/Wise/wiki) where you will find an assortment of useful subprograms.
